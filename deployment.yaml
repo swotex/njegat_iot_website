@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: app
-        image: hub.docker.com/r/wil42/playground:v1
+        image: r/wil42/playground:v1
         ports:
         - containerPort: 8888
